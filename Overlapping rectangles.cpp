@@ -28,3 +28,7 @@ int doOverlap(int L1[], int R1[], int L2[], int R2[]) {
         else
         return 1;
     }
+
+Time Complexity : O(1)
+        
+Space Complexity : O(1)        
