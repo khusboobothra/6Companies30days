@@ -29,6 +29,6 @@ vector<vector<string> > Anagrams(vector<string>& string_list) {
         }
         return ans;
 
-Time Complexity : O(N * (L * log(L))) , where L is the length of the respective strings.
+Time Complexity : O(N * (L*log(L))) , where L is the length of the respective strings.
 
-Space Complexity: O(N * L) , where N is the number of words and L is the max length among the given string lengths.
+Space Complexity: O(N*L) , where N is the number of words and L is the max length among the given string lengths.
